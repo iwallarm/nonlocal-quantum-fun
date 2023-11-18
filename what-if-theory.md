@@ -76,9 +76,49 @@ Now we can speculate a bit more and produce a kind of classic mechanics in new t
 
 **Quantum Field-Based Einstein's Energy-Mass Equation**:
 
-   $ E_{QF} = m_{\Phi} c^2 $
+   $E_{QF} = m_{\Phi} c^2$
    
    This redefines Einstein's famous equation in quantum field terms, where $m_{\Phi}$ is an effective mass term associated with the quantum field state, and $c$ is the speed of light, possibly reinterpreted as a fundamental rate of quantum field interactions.
 
 Reinterpreting traditional physics concepts in a universe where quantum fields are fundamental, and spatial distance is not a primary consideration are a kind on fun. They are hypothetical and intended to provide a conceptual framework for how classical physics might be reimagined in a quantum field-centric universe. Of course, this is not close to developing a full-size theory, but should be a enough to demostrate that the first step in this direction looks interesting if not promising. 
+
+### Molecular physics in terms of quantum field
+
+If to play this game, why not to go next round. In this theoretical framework where traditional concepts of distance are irrelevant and everything is understood in terms of quantum states and fields, molecular interactions and properties redefines in an interesting way. 
+
+**Molecular Bonding in Quantum Field Terms**
+
+   $B_{QF} = \int \Phi_{atom1} \cdot \Phi_{atom2} \, d\tau$
+   
+   Where $B_{QF}$ represents the bonding interaction between two atoms, conceptualized as the integral of the product of their quantum field states $\Phi_{atom1}$ and $\Phi_{atom2}$. This formula describes how atomic quantum fields combine to form molecular bonds.
+
+**Quantum Field-Based Molecular Energy Levels**:
+
+   $E_{QF, molecular} = \hbar \omega_{molecular}$
+
+   This defines the energy levels of a molecule in terms of the characteristic frequency $\omega_{molecular}$ of the molecular quantum field state.
+
+**Quantum Field Molecular Vibrations**:
+   
+   $V_{QF, vib} = \frac{1}{2} k_{\Phi} x_{\Phi}^2$
+   
+   The vibrational energy of a molecule is expressed in terms of an effective quantum field spring constant $k_{\Phi}$ and a quantum field displacement $x_{\Phi}$. This is an analogy to the classical spring model but in quantum field terms.
+
+**Molecular Quantum Field Rotational Energy**:
+   
+   $E_{QF, rot} = \frac{L_{QF}^2}{2I_{\Phi}}$
+   
+   The rotational energy of a molecule is described using its quantum field angular momentum $L_{QF}$ and a quantum field moment of inertia $I_{\Phi}$.
+
+**Quantum Field-Based Molecular Spectroscopy**:
+   
+   $\Delta E_{QF} = \hbar \Delta \omega_{transition}$
+   
+   This represents the energy absorbed or emitted during transitions between quantum field states in a molecule, where $\Delta \omega_{transition}$ is the difference in frequencies between the initial and final states.
+
+**Intermolecular Forces in Quantum Field Terms**:
+   
+   $F_{QF, intermolecular} = -\nabla \Phi_{interaction}$
+   
+   Intermolecular forces are described as the gradient of an interaction potential $\Phi_{interaction}$ in the quantum field, representing the influence between different molecular quantum fields.
 
