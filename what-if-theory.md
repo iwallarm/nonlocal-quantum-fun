@@ -122,3 +122,39 @@ If to play this game, why not to go next round. In this theoretical framework wh
    
    Intermolecular forces are described as the gradient of an interaction potential $\Phi_{interaction}$ in the quantum field, representing the influence between different molecular quantum fields.
 
+### Quantum basics with no distance
+
+**Quantum State Correlation Function**: 
+
+This would describe how quantum states of particles are correlated irrespective of space. 
+
+$C(E) = f(\Delta E, c)$
+
+where $C(E)$ is the correlation between quantum states based on energy difference $\Delta E$ and the speed of light $c$.
+
+**Gravity-Quantum Field Interaction**: 
+
+Express gravity as a function of quantum field interactions rather than spacetime curvature. 
+
+$G(Q, c) = g(Q, \frac{1}{c})$
+
+where $G$ is the gravitational effect, $Q$ is a quantum field parameter, and $c$ is the speed of light, influencing the interaction strength.
+
+**Entanglement-Gravity Coupling Constant**: 
+
+This is a quantify how quantum entanglement correlates with gravitational effects. 
+
+$\kappa = \frac{E_{ent}}{G_{eff}}$
+
+where $E_{ent}$ being the entanglement energy and $G_{eff}$ the effective gravitational influence.
+
+## Futher ideas
+
+### Black holes
+
+If no distance, black holes are not just extreme gravitational phenomena but represent fundamental and extreme states of quantum fields. This perspective could align more closely with a quantum theory of gravity and offer novel insights into the nature of black holes. 
+
+Singularity  might be replaced with a concept of a quantum state where fields are in an extreme configuration. This could offer new pathways to integrate quantum mechanics and gravity.
+
+Information paradox now revolves around the question of what happens to information that falls into a black hole. In a quantum field-centric universe, this paradox could be reexamined in terms of quantum information theory, suggesting that information is transformed rather than destroyed (!!!) - AND this this aligning with the principle of quantum information conservation.
+
