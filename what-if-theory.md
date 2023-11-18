@@ -24,13 +24,13 @@ Now all the traditional concepts like force, energy, and even time would likely 
 
    $F_{QF} = -\nabla \Phi$
    
-   Where $F_{QF}$ represents the 'force' as a change or gradient in the quantum field state $ \Phi $. The idea is to express 'force' as a function of changes in the field configuration rather than as a result of mass and acceleration.
+   Where $F_{QF}$ represents the 'force' as a change or gradient in the quantum field state $\Phi$. The idea is to express 'force' as a function of changes in the field configuration rather than as a result of mass and acceleration.
 
 **Energy as a Quantum State Property**:
 
    $E_{QF} = \hbar \omega_{\Phi}$
    
-   Where $E_{QF}$ represents the 'energy' associated with a particular quantum field state, with $\hbar$ being the reduced Planck constant and $\omega_{\Phi}$ the characteristic frequency or energy level of the quantum field state $ \Phi $.
+   Where $E_{QF}$ represents the 'energy' associated with a particular quantum field state, with $\hbar$ being the reduced Planck constant and $\omega_{\Phi}$ the characteristic frequency or energy level of the quantum field state $\Phi$.
 
 **Time as a Measure of Quantum State Evolution**:
 
