@@ -186,4 +186,11 @@ The 'time' could be re-explained as sequences in quantum states and distance as 
 A rewritten instein's field equations in terms of quantum fields. 
 
 Tensors and constants in Einstein's equations (like the Ricci curvature tensor $R_{\mu \nu}$, metric tensor $g_{\mu \nu}$, and the Einstein gravitational constant $G$ are now just replaced by their quantum field analogs, representing a new way to explain gravity.
- 
+
+#### Quantum Dynamics Equation
+
+$i\hbar \frac{\partial}{\partial \psi} \Psi(\Phi) = \hat{H}\Psi(\Phi)$
+
+An idea of adaptation of the Schrödinger equation, where $\Psi(\Phi)$ is the wave function of the quantum field and $\hat{H}$ is the Hamiltonian operator, redefined in terms of quantum fields. 
+
+Represents how the quantum state evolves in relation to changes in the quantum field, AND NOTin conventional time.
