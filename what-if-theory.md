@@ -150,7 +150,7 @@ where $E_{ent}$ being the entanglement energy and $G_{eff}$ the effective gravit
 
 ## Futher ideas
 
-### Black holes
+### Black holes speculations
 
 If no distance, black holes are not just extreme gravitational phenomena but represent fundamental and extreme states of quantum fields. This perspective could align more closely with a quantum theory of gravity and offer novel insights into the nature of black holes. 
 
@@ -158,3 +158,32 @@ Singularity  might be replaced with a concept of a quantum state where fields ar
 
 Information paradox now revolves around the question of what happens to information that falls into a black hole. In a quantum field-centric universe, this paradox could be reexamined in terms of quantum information theory, suggesting that information is transformed rather than destroyed (!!!) - AND this this aligning with the principle of quantum information conservation.
 
+### What if 'time' is also an invariant
+
+The next logical thing is to suggest a model/theory where neither of distance and time are independent, and only quantum fields and their iteractions defines Space-Time. 
+
+Then dark matter, dark enegry, and Universe expansion are intereprets as properties and interactions between quantum fields. 
+Gravity is not explained as a Space-Time curvature, but a result of interaction of quantum fields. 
+
+It might be like this general equation of quantum fields' states:
+
+ΔΦ=∫F(Φ,Ψ)dψ
+
+where, Φ represents the state of a specific quantum field
+
+Ψ represents other fields or factors influencing this field
+
+F is a function describing the interaction between these fields. 
+
+The idea is that the universe's behavior is driven by changes in the quantum fields, not by motion through space or time.
+
+The 'time' could be re-explained as sequences in quantum states and distance as correlations in a different quantum states. 
+
+#### Quantum Field-Defgined Gravity
+
+​$R_{\Phi \Psi} - \frac{1}{2}g_{\Phi \Psi} R + \Lambda_{\Phi} g_{\Phi \Psi} = 8\pi G_{\Phi \Psi} T_{\Phi \Psi}$
+
+A rewritten instein's field equations in terms of quantum fields. 
+
+Tensors and constants in Einstein's equations (like the Ricci curvature tensor $R_{\mu \nu}$, metric tensor $g_{\mu \nu}$, and the Einstein gravitational constant $G$ are now just replaced by their quantum field analogs, representing a new way to explain gravity.
+ 
