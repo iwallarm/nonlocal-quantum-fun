@@ -181,7 +181,7 @@ The 'time' could be re-explained as sequences in quantum states and distance as 
 
 #### Quantum Field-Defgined Gravity
 
-​$R_{\Phi \Psi} - \frac{1}{2}g_{\Phi \Psi} R + \Lambda_{\Phi} g_{\Phi \Psi} = 8\pi G_{\Phi \Psi} T_{\Phi \Psi}$
+$R_{\Phi \Psi} - \frac{1}{2}g_{\Phi \Psi} R + \Lambda_{\Phi} g_{\Phi \Psi} = 8\pi G_{\Phi \Psi} T_{\Phi \Psi}$
 
 A rewritten instein's field equations in terms of quantum fields. 
 
